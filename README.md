@@ -26,7 +26,7 @@
 
 ---
 
-### 🔥 Streak Stats
+### 🔥 Streak Status
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
