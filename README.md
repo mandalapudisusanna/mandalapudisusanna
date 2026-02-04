@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Susanna</h1>
-<h3 align="center">Beginner Developer | Learning JAVA FULLSTACK (ReactJS, Java, SQL,Frontend&Backend)</h3>
+<h3 align="center">Beginner Developer | Learning Java Full Stack (ReactJS, Java, SQL, Frontend & Backend)</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🌱 I’m currently learning **React JS**, **Java**, and **SQL**
-- 🎯 Goal: Become a **JAVA Full-Stack Developer**
+- 🌱 Currently learning **React JS, Java, and SQL**
+- 🎯 Goal: Become a **Java Full-Stack Developer**
 - 💬 Ask me about **HTML, CSS, Java, JDBC, Servlets**
-- 📫 How to reach me: **susannamandalapudi@gmail.com**
+- 📫 Reach me at: **susannamandalapudi@gmail.com**
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 GitHub Status
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mandalapudisusanna&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandalapudisusanna&layout=compact&theme=tokyonight" height="170" />
@@ -26,22 +26,22 @@
 
 ---
 
-### 🔥 Streak Status
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mandalapudisusanna&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Social Links
-- 💼 LinkedIn: www.linkedin.com/in/susanna-mandalapudi-995883259
-- 
+### 🌐 Connect With Me
+- 💼 LinkedIn: [Susanna Mandalapudi](https://www.linkedin.com/in/susanna-mandalapudi-995883259)
 
 ---
 
 ### 📝 Fun Quote
-> *"Code is like humor. When you have to explain it, it’s bad."*
+> *"Every expert was once a beginner."*
+
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to connect or check out my repositories.*  
+✨ *Thanks for visiting my profile! Feel free to connect and explore my repositories.*  
