@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Susanna</h1>
-<h3 align="center">Beginner Developer | Learning React, Java, SQL</h3>
+<h3 align="center">Beginner Developer | Learning JAVA FULLSTACK (ReactJS, Java, SQL,Frontend&Backend)</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React JS**, **Java**, and **SQL**
 - 🎯 Goal: Become a **JAVA Full-Stack Developer**
 - 💬 Ask me about **HTML, CSS, Java, JDBC, Servlets**
-- 📫 How to reach me: **mandalapudisusanna@gmail.com**
+- 📫 How to reach me: **susannamandalapudi@gmail.com**
 
 ---
 
