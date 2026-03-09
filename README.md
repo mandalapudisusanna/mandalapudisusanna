@@ -4,9 +4,9 @@
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning **React JS, Java, and SQL**
+- 🌱 Currently learning **Spring**
 - 🎯 Goal: Become a **Java Full-Stack Developer**
-- 💬 Ask me about **HTML, CSS, Java, JDBC, Servlets**
+- 💬 Ask me about **HTML, CSS, Java, JDBC, Servlets,SQL,ReactJS,JavaScript,Angular**
 - 📫 Reach me at: **susannamandalapudi@gmail.com**
 
 ---
