@@ -13,7 +13,7 @@
 
 ### 🚀 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode,myeclipse" />
 </p>
 
 ---
